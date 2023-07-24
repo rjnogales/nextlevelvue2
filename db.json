@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "b6111a64-670e-48b2-aca9-93c8a8869ada",
+      "category": "animal welfare",
+      "title": "Horse Brushing Race",
+      "description": "a fun event",
+      "location": "New York",
+      "date": "August 1 2028",
+      "time": "2:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": 790,
+      "category": "animal welfare",
+      "title": "Kangaroo Combing Competition",
+      "description": "What does this event look like ?",
+      "location": "Outback",
+      "date": "Sept 4, 2025",
+      "time": "3:00",
+      "organizer": ""
+    },
+    {
+      "id": 792,
+      "category": "sustainability",
+      "title": "Try Sustainability",
+      "description": "Is the form ok ?",
+      "location": "New York",
+      "date": "Sept 12, 2028",
+      "time": "10:00",
+      "organizer": ""
+    },
+    {
+      "id": "280b4387-3ee6-48b2-b7a7-12d6d9c1e4a0",
+      "category": "food",
+      "title": "Ajiaco",
+      "description": "Muestra de ajiacos",
+      "location": "Cali",
+      "date": "Jul 22 2023",
+      "time": "12:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "164a6d14-b739-40ed-a8d9-076721e6a468",
+      "category": "education",
+      "title": "Vuex",
+      "description": "Description",
+      "location": "Cali",
+      "date": "SEp 12 2022",
+      "time": "11:00",
+      "organizer": "Adam Jahr"
+    }
+  ]
+}
